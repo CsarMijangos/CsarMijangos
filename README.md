@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CsarMijangos
-- 👀 I’m interested in number theory, probability, statistics and data science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on algorithmic number theory and data analysis
+- 👋 Hi, I’m @CsarMijangos, PhD in Mathematics 
+- 👀 I’m interested in Number Theory, Combinatorics, Probability, Statistics, Data Science and AI
+- 🌱 I would like to reinforce my Python and JavaScript knowledge
+- 💞️ I’m looking to collaborate on Algorithmic Number Theory, AI and Data Analysis
 - 📫 How to reach me csarmijangos496@gmail.com
 
 <!---
