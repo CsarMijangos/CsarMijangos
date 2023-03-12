@@ -1,5 +1,5 @@
 - Hello, I’m @CsarMijangos, PhD in Mathematics 
-- I'm interested in all areas of Mathematics pures and applied.
+- I'm a curious person interested in Mathematics, Genomics and Physics.
 - I’m interested in applying Mathematics to Genomics, Number Theory, Data Science and AI
 - 📫 How to reach me csarmijangos496@gmail.com
 
