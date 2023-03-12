@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @CsarMijangos, PhD in Mathematics 
-- 👀 I’m interested in Number Theory, Combinatorics, Probability, Statistics, Data Science and AI
-- 🌱 I would like to reinforce my Python and JavaScript knowledge
-- 💞️ I’m looking to collaborate on Algorithmic Number Theory, AI and Data Analysis
+- Hello, I’m @CsarMijangos, PhD in Mathematics 
+- I'm interested in all areas of Mathematics pures and applied.
+- I’m interested in applying Mathematics to Genomics, Number Theory, Data Science and AI
 - 📫 How to reach me csarmijangos496@gmail.com
 
 ![IMG-20200525-WA0025](https://user-images.githubusercontent.com/93954602/155540132-84bb2652-7a46-4c2d-962b-f512de8e17de.jpg)
